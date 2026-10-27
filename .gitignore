@@ -1,0 +1,18 @@
+# Byte-code and build outputs
+*.class
+bin/
+
+# IDE configurations
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Library / Driver JAR files (recommended to download via Maven/manual download)
+lib/
+
+# OS generated files
+.DS_Store
+Thumbs.db
