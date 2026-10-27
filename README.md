@@ -4,7 +4,7 @@ A simple, robust Java application demonstrating how to connect to a MySQL databa
 
 ---
 
-## 📖 What Does This Code Do? (In Plain English)
+## 📖 What Does This Code Do?
 
 Have you ever wondered how desktop or backend Java apps interact with databases without corrupting data when something goes wrong? This project demonstrates the complete end-to-end flow:
 
